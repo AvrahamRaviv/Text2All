@@ -18,6 +18,10 @@ A curated list of text-based generative models resources
 
 [MidJourney](https://www.midjourney.com/home/)
 
+[DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://dreambooth.github.io/)
+
+[Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors](https://arxiv.org/abs/2203.13131)
+
 ### Text-to-Video
 [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://makeavideo.studio/)
 
