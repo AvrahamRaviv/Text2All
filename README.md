@@ -2,6 +2,8 @@
 
 A curated list of text-based generative models resources
 
+<img src="https://github.com/AvrahamRaviv/Text2All/blob/main/TextToAll.png" width="512" height="512">
+
 ## Table of contents
 **[Works and Papers](#Works-and-Papers)**
 
