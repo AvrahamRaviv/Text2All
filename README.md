@@ -30,12 +30,24 @@ A curated list of text-based generative models resources
 [Imagen Video: High Definition Video Generation With Diffusion Models](https://imagen.research.google/video/)
 
 ### Text-to-3D
-[DreamFusion](https://dreamfusionpaper.github.io/)
+[DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusionpaper.github.io/)
+
+[Zero-Shot Text-Guided Object Generation with Dream Fields](https://ajayj.com/dreamfields)
+
+[CLIP-Mesh: Generating textured meshes from text using pretrained image-text models](https://www.nasir.lol/clipmesh)
 
 ### Text-to-Audio
 [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/)
 
 ### Text-to-Human-Motion
-[Human Motion Diffusion Model](https://paperswithcode.com/paper/human-motion-diffusion-model)
+[MotionCLIP: Exposing Human Motion Generation to CLIP Space](https://guytevet.github.io/motionclip-page/)
+
+[Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
+
+[Language2Pose: Natural Language Grounded Pose Forecasting](https://arxiv.org/abs/1907.01108)
 
 ## Tutorials
+
+[The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
+
+[Introduction to Diffusion Models](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/) [DALL-E](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/) [Imagen](https://www.assemblyai.com/blog/how-imagen-actually-works/) [Build Your Own Imagen](https://www.assemblyai.com/blog/minimagen-build-your-own-imagen-text-to-image-model/)
