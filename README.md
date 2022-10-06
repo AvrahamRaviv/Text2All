@@ -26,6 +26,9 @@ A comprehensive list of resources about text-guided generative models.
 
 [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://github.com/openai/glide-text2im)
 
+[Parti - Pathways Autoregressive Text-to-Image](https://parti.research.google/)
+
+
 [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://github.com/taoxugit/AttnGAN)
 
 [LAFITE: Towards Language-Free Training for Text-to-Image Generation](https://github.com/drboog/Lafite)
