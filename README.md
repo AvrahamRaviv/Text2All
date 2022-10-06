@@ -44,6 +44,12 @@ A comprehensive list of resources about text-guided generative models.
 
 [Imagen Video: High Definition Video Generation With Diffusion Models](https://imagen.research.google/video/)
 
+[GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions](https://arxiv.org/pdf/2104.14806v1.pdf)
+
+[CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers](https://github.com/THUDM/CogVideo)
+
+[NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion](https://github.com/microsoft/NUWA)
+
 ### Text-to-3D
 [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusionpaper.github.io/)
 
@@ -53,6 +59,8 @@ A comprehensive list of resources about text-guided generative models.
 
 ### Text-to-Audio
 [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/)
+
+[Diffsound: Discrete Diffusion Model for Text-to-sound Generation](http://dongchaoyang.top/text-to-sound-synthesis-demo/)
 
 ### Text-to-Human-Motion
 [MotionCLIP: Exposing Human Motion Generation to CLIP Space](https://guytevet.github.io/motionclip-page/)
