@@ -1,8 +1,10 @@
 # Text2All
 
-A curated list of text-based generative models resources
+A comprehensive list of resources about text-guided generative models.
 
+<p align="center">
 <img src="https://github.com/AvrahamRaviv/Text2All/blob/main/TextToAll.png" width="512" height="512">
+</p>
 
 ## Table of contents
 **[Works and Papers](#Works-and-Papers)**
