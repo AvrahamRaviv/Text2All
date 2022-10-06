@@ -20,9 +20,17 @@ A curated list of text-based generative models resources
 
 [MidJourney](https://www.midjourney.com/home/)
 
+[GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://github.com/openai/glide-text2im)
+
+[AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://github.com/taoxugit/AttnGAN)
+
+[LAFITE: Towards Language-Free Training for Text-to-Image Generation](https://github.com/drboog/Lafite)
+
 [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://dreambooth.github.io/)
 
 [Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors](https://arxiv.org/abs/2203.13131)
+
+[StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://github.com/hanzhanggit/StackGAN)
 
 ### Text-to-Video
 [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://makeavideo.studio/)
@@ -50,4 +58,10 @@ A curated list of text-based generative models resources
 
 [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 
-[Introduction to Diffusion Models](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/) [DALL-E](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/) [Imagen](https://www.assemblyai.com/blog/how-imagen-actually-works/) [Build Your Own Imagen](https://www.assemblyai.com/blog/minimagen-build-your-own-imagen-text-to-image-model/)
+[Introduction to Diffusion Models](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
+
+[How DALL-E works](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/)
+
+[How Imagen works](https://www.assemblyai.com/blog/how-imagen-actually-works/)
+
+[Build Your Own Imagen](https://www.assemblyai.com/blog/minimagen-build-your-own-imagen-text-to-image-model/)
