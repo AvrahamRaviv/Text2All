@@ -1,5 +1,4 @@
-# Text2All
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+# Text2All![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 <!-- ![](https://img.shields.io/github/stars/AvrahamRaviv?affiliations=OWNER&color=YellowGreen&label=Stars&logo=StarsC&logoColor=StarsC&style=social) -->
 
 > A comprehensive list of resources about text-guided generative models.
