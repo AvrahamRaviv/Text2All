@@ -73,7 +73,7 @@ A comprehensive list of resources about text-guided generative models.
 
 ## Tutorials
 
-[Awesome AI image synthesis - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis?fbclid=IwAR3l3XTcUR9dHRfaOiqwu3-XEzh87tvWieLzikMrm5Vrij6nADCPa3oUFDg#youtube-video-resources)
+[Awesome AI image synthesis - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis)
 
 [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 
