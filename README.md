@@ -1,17 +1,19 @@
-# Text2All
+# Text2All[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
-A comprehensive list of resources about text-guided generative models.
-
-
-## Table of contents
-**[Works and Papers](#works-and-papers)**
-
-**[Tutorials](#tutorials)**
-
+> A comprehensive list of resources about text-guided generative models.
 <p align="center">
 <img src="https://github.com/AvrahamRaviv/Text2All/blob/main/TextToAll.png" width="512" height="512">
 </p>
 
+## Table of contents
+- [Works and Papers](#works-and-papers)
+  - [Text-to-Image](#text-to-image)
+  - [Text-to-Video](#text-to-video)
+  - [Text-to-3D](#text-to-3d)
+  - [Text-to-Audio](#text-to-audio)
+  - [Text-to-Motion](#text-to-motion)
+
+- [Tutorials](#tutorials)
 
 ## Works and Papers
 
@@ -27,7 +29,6 @@ A comprehensive list of resources about text-guided generative models.
 [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://github.com/openai/glide-text2im)
 
 [Parti - Pathways Autoregressive Text-to-Image](https://parti.research.google/)
-
 
 [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://github.com/taoxugit/AttnGAN)
 
@@ -64,7 +65,7 @@ A comprehensive list of resources about text-guided generative models.
 
 [Diffsound: Discrete Diffusion Model for Text-to-sound Generation](http://dongchaoyang.top/text-to-sound-synthesis-demo/)
 
-### Text-to-Human-Motion
+### Text-to-Motion
 [MotionCLIP: Exposing Human Motion Generation to CLIP Space](https://guytevet.github.io/motionclip-page/)
 
 [Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
