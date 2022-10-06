@@ -1,4 +1,6 @@
-# Text2All[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+# Text2All
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+<!-- ![](https://img.shields.io/github/stars/AvrahamRaviv?affiliations=OWNER&color=YellowGreen&label=Stars&logo=StarsC&logoColor=StarsC&style=social) -->
 
 > A comprehensive list of resources about text-guided generative models.
 <p align="center">
@@ -75,6 +77,8 @@
 ## Tutorials
 
 [Awesome AI image synthesis - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis)
+
+[Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html)
 
 [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 
