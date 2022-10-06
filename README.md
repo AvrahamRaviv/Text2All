@@ -44,6 +44,8 @@ A comprehensive list of resources about text-guided generative models.
 
 [Imagen Video: High Definition Video Generation With Diffusion Models](https://imagen.research.google/video/)
 
+[Phenaki: Variable Length Video Generation from Open Domain Textual Descriptions](https://phenaki.video/?fbclid=IwAR2PPsn9kT7WGbOaTrr-Fi7UBVBWd8-BZzX3bLFT9B_WISO9LBGq8mBIl6M)
+
 [GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions](https://arxiv.org/pdf/2104.14806v1.pdf)
 
 [CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers](https://github.com/THUDM/CogVideo)
@@ -71,6 +73,8 @@ A comprehensive list of resources about text-guided generative models.
 
 ## Tutorials
 
+[Awesome AI image synthesis - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis?fbclid=IwAR3l3XTcUR9dHRfaOiqwu3-XEzh87tvWieLzikMrm5Vrij6nADCPa3oUFDg#youtube-video-resources)
+
 [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 
 [Introduction to Diffusion Models](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
@@ -80,3 +84,7 @@ A comprehensive list of resources about text-guided generative models.
 [How Imagen works](https://www.assemblyai.com/blog/how-imagen-actually-works/)
 
 [Build Your Own Imagen](https://www.assemblyai.com/blog/minimagen-build-your-own-imagen-text-to-image-model/)
+
+[Yannic Kilcher - Text-to-Image models are taking over! (Imagen, DALL-E 2, Midjourney, CogView 2 & more)](https://www.youtube.com/watch?v=af6WPqvzjjk&ab_channel=YannicKilcher)
+
+[Yannic Kilcher - Stable Diffusion Takes Over!](https://www.youtube.com/watch?v=xbxe-x6wvRw&ab_channel=YannicKilcher)
