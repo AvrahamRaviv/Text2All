@@ -13,6 +13,7 @@
   - [Text-to-3D](#text-to-3d)
   - [Text-to-Audio](#text-to-audio)
   - [Text-to-Motion](#text-to-motion)
+  - [Texx-to-Style](#text-to-style)
 
 - [Tutorials](#tutorials)
   - [Resources](#resources)
@@ -77,6 +78,9 @@
 - [Human Motion Diffusion Model](https://guytevet.github.io/mdm-page/)
 
 - [Language2Pose: Natural Language Grounded Pose Forecasting](https://arxiv.org/abs/1907.01108)
+
+### Text-to-Style
+[Text-Driven Stylization of Video Objects](https://sloeschcke.github.io/Text-Driven-Stylization-of-Video-Objects/)
 
 ## Tutorials
 
