@@ -13,7 +13,7 @@
   - [Text-to-3D](#text-to-3d)
   - [Text-to-Audio](#text-to-audio)
   - [Text-to-Motion](#text-to-motion)
-  - [Texx-to-Style](#text-to-style)
+  - [Text-to-Style](#text-to-style)
 
 - [Tutorials](#tutorials)
   - [Resources](#resources)
