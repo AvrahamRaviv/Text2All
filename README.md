@@ -29,7 +29,7 @@
 
 - [Stable Diffusion - High-Resolution Image Synthesis with Latent Diffusion Models](https://github.com/CompVis/stable-diffusion)
 
-- [Stable Diffusion - Notebook](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb?fbclid=IwAR23pz-LB_UcXOE1vBGIf6niGL86CHlISFhr4kfqYA-qUJR_m0EVfWOpg5Y), [Animation Notebook](https://colab.research.google.com/gist/costiash/d9421a1d4c0c66f8fb1d0f107b0c0bcb/stable-diffusion-animation-demo.ipynb?fbclid=IwAR23gmrl-TRW37PRxWTYlrixdy8DA3woxEpmaE62OzsZ48-dx7raraD7UAY)
+- Stable Diffusion Notebooks: - [Image](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb?fbclid=IwAR23pz-LB_UcXOE1vBGIf6niGL86CHlISFhr4kfqYA-qUJR_m0EVfWOpg5Y), [Animation](https://colab.research.google.com/gist/costiash/d9421a1d4c0c66f8fb1d0f107b0c0bcb/stable-diffusion-animation-demo.ipynb?fbclid=IwAR23gmrl-TRW37PRxWTYlrixdy8DA3woxEpmaE62OzsZ48-dx7raraD7UAY) [Panorama](https://colab.research.google.com/drive/1RXRrkKUnpNiPCxTJg0Imq7sIM8ltYFz2?usp=sharing)
 
 - [MidJourney](https://www.midjourney.com/home/)
 
