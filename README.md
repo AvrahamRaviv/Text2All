@@ -41,6 +41,8 @@
 
 - [Imagic: Text-Based Real Image Editing with Diffusion Models](https://arxiv.org/pdf/2210.09276.pdf)
 
+- [UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image](https://arxiv.org/abs/2210.09477)
+
 - [LAFITE: Towards Language-Free Training for Text-to-Image Generation](https://github.com/drboog/Lafite)
 
 - [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://dreambooth.github.io/)
@@ -50,6 +52,8 @@
 - [Text2LIVE: Text-Driven Layered Image and Video Editing](https://text2live.github.io/?utm_source=catalyzex.com)
 
 - [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://textual-inversion.github.io/)
+
+- [Prompt-to-Prompt: Latent Diffusion and Stable Diffusion implementation](https://prompt-to-prompt.github.io/)
 
 - [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://github.com/hanzhanggit/StackGAN)
 
