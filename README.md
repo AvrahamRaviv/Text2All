@@ -47,7 +47,9 @@
 
 - [Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors](https://arxiv.org/abs/2203.13131)
 
-- [https://text2live.github.io/?utm_source=catalyzex.com](https://text2live.github.io/?utm_source=catalyzex.com)
+- [Text2LIVE: Text-Driven Layered Image and Video Editing](https://text2live.github.io/?utm_source=catalyzex.com)
+
+- [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://textual-inversion.github.io/)
 
 - [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://github.com/hanzhanggit/StackGAN)
 
