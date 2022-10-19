@@ -114,6 +114,8 @@
 
 ### Videos
 
+- [Diffusion models from scratch in PyTorch](https://www.youtube.com/watch?v=a4Yfz2FxXiY&ab_channel=DeepFindr)
+
 - [Yannic Kilcher - Text-to-Image models are taking over! (Imagen, DALL-E 2, Midjourney, CogView 2 & more)](https://www.youtube.com/watch?v=af6WPqvzjjk&ab_channel=YannicKilcher)
 
 - [Yannic Kilcher - Stable Diffusion Takes Over!](https://www.youtube.com/watch?v=xbxe-x6wvRw&ab_channel=YannicKilcher)
