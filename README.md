@@ -39,6 +39,8 @@
 
 - [Imagic: Text-Based Real Image Editing with Diffusion Models](https://arxiv.org/pdf/2210.09276.pdf)
 
+- [DIFFEDIT: Diffusion-based semantic image editing with mask guidance](https://arxiv.org/pdf/2210.11427.pdf?fbclid=IwAR1WanJ75VTG2NFYhZAevLyogvcbmeC4dj8Cifx4dd94SdyQGd92h8gU0Ec)
+
 - [UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image](https://arxiv.org/abs/2210.09477)
 
 - [LAFITE: Towards Language-Free Training for Text-to-Image Generation](https://github.com/drboog/Lafite)
