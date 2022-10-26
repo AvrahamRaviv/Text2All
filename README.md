@@ -27,6 +27,8 @@
 
 - [Imagen - Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://imagen.research.google/)
 
+- [RE-IMAGEN: Retrieval-augmented Text-to-image Generator](https://arxiv.org/pdf/2209.14491.pdf)
+
 - [Stable Diffusion - High-Resolution Image Synthesis with Latent Diffusion Models](https://github.com/CompVis/stable-diffusion)
 
 - [MidJourney](https://www.midjourney.com/home/)
@@ -39,7 +41,7 @@
 
 - [Imagic: Text-Based Real Image Editing with Diffusion Models](https://arxiv.org/pdf/2210.09276.pdf)
 
-- [DIFFEDIT: Diffusion-based semantic image editing with mask guidance](https://arxiv.org/pdf/2210.11427.pdf?fbclid=IwAR1WanJ75VTG2NFYhZAevLyogvcbmeC4dj8Cifx4dd94SdyQGd92h8gU0Ec)
+- [DIFFEDIT: Diffusion-based Semantic Image Editing With Mask Guidance](https://arxiv.org/pdf/2210.11427.pdf?fbclid=IwAR1WanJ75VTG2NFYhZAevLyogvcbmeC4dj8Cifx4dd94SdyQGd92h8gU0Ec)
 
 - [UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image](https://arxiv.org/abs/2210.09477)
 
@@ -56,6 +58,8 @@
 - [Prompt-to-Prompt: Latent Diffusion and Stable Diffusion implementation](https://prompt-to-prompt.github.io/)
 
 - [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://github.com/hanzhanggit/StackGAN)
+
+- [clip2latent: Text driven sampling of a pre-trained StyleGAN using denoising diffusion and CLIP](https://github.com/justinpinkney/clip2latent)
 
 - Stable Diffusion Notebooks: [Image](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb?fbclid=IwAR23pz-LB_UcXOE1vBGIf6niGL86CHlISFhr4kfqYA-qUJR_m0EVfWOpg5Y), [Animation](https://colab.research.google.com/gist/costiash/d9421a1d4c0c66f8fb1d0f107b0c0bcb/stable-diffusion-animation-demo.ipynb?fbclid=IwAR23gmrl-TRW37PRxWTYlrixdy8DA3woxEpmaE62OzsZ48-dx7raraD7UAY), [Panorama](https://colab.research.google.com/drive/1RXRrkKUnpNiPCxTJg0Imq7sIM8ltYFz2?usp=sharing), [text-based real image editing](https://github.com/justinpinkney/stable-diffusion/blob/main/notebooks/imagic.ipynb)
 
