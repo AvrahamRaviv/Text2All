@@ -37,6 +37,8 @@
 
 - [Parti - Pathways Autoregressive Text-to-Image](https://parti.research.google/)
 
+- [MagicMix: Semantic Mixing with Diffusion Models](https://arxiv.org/abs/2210.16056)
+
 - [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://github.com/taoxugit/AttnGAN)
 
 - [Imagic: Text-Based Real Image Editing with Diffusion Models](https://arxiv.org/pdf/2210.09276.pdf)
