@@ -108,6 +108,8 @@
 
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html)
 
+- [DiffusionDB - large-scale text-to-image prompt dataset (it contains 2 million images)](https://github.com/poloclub/diffusiondb)
+
 ### Blogs and Summaries
 
 - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
